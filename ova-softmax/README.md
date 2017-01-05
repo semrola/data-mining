@@ -1,0 +1,2 @@
+* One-vs-All
+* Softmax
